@@ -4,7 +4,8 @@
 </h1>
 
 ⚠️ **Disclaimer:** This will not give you 100% anonymity. Your ISP can still see you your data packages <br/> 
-if you want 100% anonymity use a VPN or The Tor relay. This guide will only help with the tracking that you leave on websites.<br/>
+if you want 100% anonymity use a VPN or The Tor relay.<br/>
+This guide will only help with the tracking that you leave on websites.<br/>
 Sorry iOS I can't help you.
 
 --------------
