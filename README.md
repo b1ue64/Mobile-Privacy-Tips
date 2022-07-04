@@ -39,6 +39,10 @@ Ok 90% of VPN are not anonymous here a video to tell you why [Click me](https://
  -------------------
  * What about Rooted Android phone?<br/>
  Well it's 50/50 just don't do dumb stuff and you will be good
+  ------------------
+* Saving Battery<br/>
+ Power off your phone not sleep when you are not using it<br/>
+ and close/uninstall apps you don't use or not using
  ------------------
 * And last. Can I still use it as my daily Browser<br/>
  Why ask me that you can but in the guide of getting setup you might want to not add some settings
