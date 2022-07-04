@@ -3,10 +3,9 @@
   Take back your Privacy
 </h1>
 
-⚠️ **Disclaimer:** This will not give you 100% anonymity. Your ISP can still see you your data packages <br/> 
-if you want 100% anonymity use a VPN or The Tor relay.<br/>
-This guide will only help with the tracking that you leave on websites.<br/>
-Sorry iOS I can't help you.
+⚠️ **Disclaimer:** This will not give you 100% anonymity. Your ISP can still see you your data <br/> 
+if you want 100% anonymity use a VPN or Tor. This guide will only help with website trackers.<br/>
+Sorry iOS I can't help you
 
 --------------
 ## Tips for people
@@ -15,37 +14,33 @@ Sorry iOS I can't help you.
   <summary>Click to expand</summary>
 
  ---------
- * What is this page about? <br/> 
- Again to help you with Mobile Privacy for Android.
+ * What's this page about? <br/> 
+ This for helping you with mobile privacy on Android.
  ----------
-* Whats a good phone for custom rom?<br/>
-I think the best phone for that is<br/>
-`Google Pixel Phone (non-carrier models)`
-Just see if the OEM can be unlock or not
+* What's phone for custom ROMs? <br/>
+The best phone for custom ROMs is the Google Pixel lineup, as long as it isn't a carrier model.
+Other phones may can also be used for custom ROMs, just check to see if you can root or unlock it.
 ------------
 * What about VPN's?<br/>
-Ok 90% of VPN are not anonymous here a video to tell you why. [Click me](https://www.youtube.com/watch?v=hPrMtIXUh1s&t)
+90% of VPNs are not truly anonymous. [This video](https://www.youtube.com/watch?v=hPrMtIXUh1s&t) can explain it better.
 --------------
-* What's a good custom rom for Privacy?<br/>
- The best one is [CalyxOS](https://calyxos.org/) and [GrapheneOS](https://grapheneos.org/) are the two best one.<br/>
- Pick what ever fits you.
+* What's the best custom ROM for security and privacy?<br/>
+ The best ones are [CalyxOS](https://calyxos.org/) and [GrapheneOS](https://grapheneos.org/). <br/>
+ Pick the one that supports your device. If your device isn't supported by these, use [LineageOS](https://lineageos.org/)
 --------------
-* What's a good Privacy Web Browser for my phone?<br/>
- Use Forks of Firefox or Firefox Nightly. Here a list of some browser<br/>
- 1. Mull Fork of Firefox Mobile with arkenfox user profile
- Link to [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) and [Arkenfox user.js](https://github.com/arkenfox/user.js/)
- 2. [Bromite](https://www.bromite.org/) A fork of The Chromium Projects
- 3. Tor Browser for Android only
+* What's a good private browser for my phone?<br/>
+ Use a fork of Firefox or Chromium:<br/>
+ 1. [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) (based on Firefox Mobile) with the [Arkenfox user.js](https://github.com/arkenfox/user.js/)
+ 
+ 2. [Bromite](https://www.bromite.org/) (based on Chromium)
+ 
+ 3. the Tor Browser
  -------------------
- * What about Rooted Android phone?<br/>
- Well it's a 50/50 just don't do dumb stuff and you will be good.
+ * What about rooting?<br/>
+ Don't be dumb, and you'll be good. Rooting instructions depend on the device you're using.
   ------------------
-* Saving Battery<br/>
- Power off your phone not sleep when you are not using it<br/>
- and close/uninstall apps you don't use or not using.
- ------------------
-* And last can I still use it as my daily Browser?<br/>
- Why ask me that you can but in the guide of getting setup you might want to not add some settings.
+* How should I save battery?<br/>
+ Power off your phone completely (don't put it into sleep mode) when you aren't using it and uninstall apps you don't use.
  ------------------
 </details>
 
@@ -55,19 +50,19 @@ Ok 90% of VPN are not anonymous here a video to tell you why. [Click me](https:/
   <summary>Click to expand</summary>
  
 <h1 align="center">
- Keep Your browser Pivate
+ Keeping Your browser private
 </h1>
  
-* If you have the following downloaded you good if not download it to start.
- 1. [F-Droid](https://f-droid.org/)
- 2. Mull Browser or Firefox Nightly <-- Google Play or Aurora Store needed
- 3. Bromite
- 4. Tor Browser
+* Download [F-Droid](https://f-droid.org/), and pick the browser you want
+ 1. Mull Browser (based on Firefox, better config out of the box)
+ 2. Firefox Nightly (needs more configuration)
+ 3. Bromite (based on Chromium, may support more websites)
+ 4. Tor Browser (allows you to use the Tor network, but may be slower. based off of Firefox.)
  
  ----------------
- ⚠️ **WARNING:** Some config will be brake websites<br/>
- ## Lets get started
- * Changing some Mull config for `about:config` here what to put down<br/>
+ ⚠️ **WARNING:** Some options will break websites. You may want to have a "normal" browser, just in case. <br/>
+ ## Changing browser configs
+ * For Mull (go to `about:config`): <br/>
  ```json
  "geo.enable", false
  "network.http.sendRefererHeader", 0
@@ -78,11 +73,7 @@ Ok 90% of VPN are not anonymous here a video to tell you why. [Click me](https:/
  "media.peerconnection.enabled", false
  ```
  ----------------
- * Now for Firefox Nightly
- this will be a bit longer<br/>
- go to `about:config` and put/change<br/>
- Most of it is from arkenfox.js<br/>
- 
+ * For Firefox Nightly (go to `about:config`):
  ```json
 "browser.aboutConfig.showWarning", false : disable about:config warning popup
 "browser.shell.checkDefaultBrowser", false : check if Firefox is your default browser
@@ -134,27 +125,26 @@ Ok 90% of VPN are not anonymous here a video to tell you why. [Click me](https:/
 "network.captive-portal-service.enabled", false
 "network.connectivity-service.enabled", false
 ```
-* Read from this list [Click me](https://gitlab.com/divested-mobile/mull-fenix/-/blob/master/preferences/userjs-arkenfox.js)
+[taken from here](https://gitlab.com/divested-mobile/mull-fenix/-/blob/master/preferences/userjs-arkenfox.js)
 </details>
 
 -----------
 </details>
 
-## What I use for Privacy
+## What I use for privacy
 
 <details>
   <summary>Click to expand</summary>
- 
-* Here my list
-1. I use Google Pixel 6 Pro with CalyxOS
-2. For apps I use the Aurora Store and F-Droid
-3. Browser I use Mull Browser and Bromite
-4. Password Manager I use KeepassDX
-5. For texting use Molly FOSS or Signal
+
+1. Device and ROM: Google Pixel 6 Pro with CalyxOS
+2. App store: Aurora Store and F-Droid
+3. Browser: Mull Browser and Bromite
+4. Password Manager: KeepassDX
+5. Texting: Molly FOSS and Signal
 </details>
 
 -------------
 <h1 align="center">
- Thank you for reading my page <br/>
+ Thank you for reading!<br/>
 </h1>
-I hope this help you if you want join my Revolt server for some reason you can. https://app.revolt.chat/invite/rd6ccQJt
+I hope this helped you. Join my Revolt server if you want to: https://app.revolt.chat/invite/rd6ccQJt
