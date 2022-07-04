@@ -19,7 +19,7 @@ Sorry iOS I can't help you.
  ----------
 * Whats a good phone for custom rom?<br/>
 I think the best phone for that is<br/>
-`Google Pixel Phone (non-carrier models).`
+`Google Pixel Phone (non-carrier models)`
 Just see if the OEM can be unlock or not
 ------------
 * What about VPN's?<br/>
