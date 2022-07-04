@@ -32,9 +32,7 @@ Ok 90% of VPN are not anonymous here a video to tell you why [Click me](https://
  Use Forks of Firefox or Firefox Nightly. Here a list of some browser<br/>
  1. Mull Fork of Firefox Mobile with arkenfox user profile
  Link to [Mull](https://f-droid.org/packages/us.spotco.fennec_dos/) and [Arkenfox user.js](https://github.com/arkenfox/user.js/)
- 
  2. [Bromite](https://www.bromite.org/) A fork of The Chromium Projects
- 
  3. Tor Browser for Android only
  -------------------
  * What about Rooted Android phone?<br/>
@@ -44,7 +42,7 @@ Ok 90% of VPN are not anonymous here a video to tell you why [Click me](https://
  Power off your phone not sleep when you are not using it<br/>
  and close/uninstall apps you don't use or not using
  ------------------
-* And last. Can I still use it as my daily Browser<br/>
+* And last can I still use it as my daily Browser<br/>
  Why ask me that you can but in the guide of getting setup you might want to not add some settings
  ------------------
 </details>
