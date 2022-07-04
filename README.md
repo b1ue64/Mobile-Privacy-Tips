@@ -1,6 +1,6 @@
 <h1 align="center">
  Mobile Browser Privacy Tips <br/>
-  Take back your Privacy
+  Take back your privacy
 </h1>
 
 ⚠️ **Disclaimer:** This will not give you 100% anonymity. Your ISP can still see you your data <br/> 
@@ -15,7 +15,7 @@ Sorry iOS I can't help you
 
  ---------
  * What's this page about? <br/> 
- This for helping you with mobile privacy on Android.
+ This page is for helping you with mobile privacy on Android.
  ----------
 * What's phone for custom ROMs? <br/>
 The best phone for custom ROMs is the Google Pixel lineup, as long as it isn't a carrier model.
