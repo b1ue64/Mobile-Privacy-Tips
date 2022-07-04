@@ -5,7 +5,7 @@
 
 ⚠️ **Disclaimer:** This will not give you 100% anonymity. Your ISP can still see you your data packages <br/> 
 if you want 100% anonymity use a VPN or The Tor relay. This guide will only help with the tracking that you leave on websites.<br/>
-Sorry iOS I can't help you
+Sorry iOS I can't help you.
 
 --------------
 ## Tips for people
@@ -15,18 +15,19 @@ Sorry iOS I can't help you
 
  ---------
  * What is this page about? <br/> 
- This for again helping you with Mobile Privacy for Android
+ Again to help you with Mobile Privacy for Android.
  ----------
-* Whats a good phone for custom rom? I think the best phone for that is <br/>
-`Google Pixel Phone (non-carrier models)`
+* Whats a good phone for custom rom?<br/>
+I think the best phone for that is<br/>
+`Google Pixel Phone (non-carrier models).`
 Just see if the OEM can be unlock or not
 ------------
 * What about VPN's?<br/>
-Ok 90% of VPN are not anonymous here a video to tell you why [Click me](https://www.youtube.com/watch?v=hPrMtIXUh1s&t)
+Ok 90% of VPN are not anonymous here a video to tell you why. [Click me](https://www.youtube.com/watch?v=hPrMtIXUh1s&t)
 --------------
 * What's a good custom rom for Privacy?<br/>
- The best one is [CalyxOS](https://calyxos.org/) and [GrapheneOS](https://grapheneos.org/) are the two best one<br/>
- Pick what ever fits you
+ The best one is [CalyxOS](https://calyxos.org/) and [GrapheneOS](https://grapheneos.org/) are the two best one.<br/>
+ Pick what ever fits you.
 --------------
 * What's a good Privacy Web Browser for my phone?<br/>
  Use Forks of Firefox or Firefox Nightly. Here a list of some browser<br/>
@@ -36,14 +37,14 @@ Ok 90% of VPN are not anonymous here a video to tell you why [Click me](https://
  3. Tor Browser for Android only
  -------------------
  * What about Rooted Android phone?<br/>
- Well it's 50/50 just don't do dumb stuff and you will be good
+ Well it's a 50/50 just don't do dumb stuff and you will be good.
   ------------------
 * Saving Battery<br/>
  Power off your phone not sleep when you are not using it<br/>
- and close/uninstall apps you don't use or not using
+ and close/uninstall apps you don't use or not using.
  ------------------
-* And last can I still use it as my daily Browser<br/>
- Why ask me that you can but in the guide of getting setup you might want to not add some settings
+* And last can I still use it as my daily Browser?<br/>
+ Why ask me that you can but in the guide of getting setup you might want to not add some settings.
  ------------------
 </details>
 
